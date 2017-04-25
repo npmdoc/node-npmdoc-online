@@ -1,4 +1,7 @@
-# api documentation for  online (v0.0.1)  [![npm package](https://img.shields.io/npm/v/npmdoc-online.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-online) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-online.svg)](https://travis-ci.org/npmdoc/node-npmdoc-online)
+# npmdoc-online
+
+#### basic api documentation for  online (v0.0.1)  [![npm package](https://img.shields.io/npm/v/npmdoc-online.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-online) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-online.svg)](https://travis-ci.org/npmdoc/node-npmdoc-online)
+
 #### Track online user activity with redis
 
 [![NPM](https://nodei.co/npm/online.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/online)
@@ -51,7 +54,8 @@
     ],
     "name": "online",
     "optionalDependencies": {},
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "bin": {}
 }
 ```
 
